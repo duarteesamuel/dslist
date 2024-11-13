@@ -2,7 +2,7 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
-/*Método para retornar informações mínimas de um game*/
+/*Método para retornar informações reduzidas de um game*/
 
 public class GameMinDTO {
 	
